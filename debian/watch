@@ -1,0 +1,3 @@
+version=3
+https://github.com/fsharp/emacs-fsharp-mode/tags (?:.*/)?v?(\d[\d\.]*)\.tar\.gz
+https://github.com/fsharp/emacs-fsharp-mode/releases (?:.*/)?v?(\d[\d\.]*)\.tar\.gz

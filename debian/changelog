@@ -1,0 +1,5 @@
+emacs-fsharp-mode (1.7.1-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Barak A. Pearlmutter <bap@debian.org>  Sat, 19 Dec 2015 15:35:24 +0000
